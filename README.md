@@ -1,0 +1,63 @@
+# Fujii Kaze – Overprotected
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.71] I need time (time), love, joy (joy)
+[00:07.92] I need space, love
+[00:11.52] I need me (action!)
+[00:21.02] 
+[00:15.40] Say hello to the girl that I am
+[00:19.59] You're gonna have to see through my perspective
+[00:24.66] I need to make mistakes just to learn who I am
+[00:29.76] And I don't wanna be so damn protected
+[00:48.76] 
+[00:34.64] There must be another way
+[00:38.01] 'Cause I believe in taking chances
+[00:40.47] But who am I to say, what a girl is to do?
+[00:43.51] God, I need some answers
+[00:55.51] 
+[00:45.62] What am I to do with my life? (You will find it out, don't worry)
+[00:50.74] How am I supposed to know what's right? (You just gotta do it your way)
+[00:55.94] I can't help the way I feel
+[00:58.51] But my life has been so overprotected
+[01:17.01] 
+[01:04.85] I'll tell 'em what I like, what I want, and what I don't
+[01:09.68] But every time I do, I stand corrected
+[01:14.74] Things that I've been told, I can't believe what I hear about the world
+[01:19.36] I realize I'm overprotected
+[01:32.86] 
+[01:24.35] There must be another way
+[01:27.79] 'Cause I believe in taking chances
+[01:30.02] But who am I to say, what a girl is to do?
+[01:33.76] God, I need some answers
+[01:45.76] 
+[01:35.67] What am I to do with my life? (You will find it out, don't worry)
+[01:40.45] How am I supposed to know what's right? (You just gotta do it your way)
+[01:45.56] I can't help the way I feel (help the way I feel)
+[01:48.50] But my life has been so overprotected
+[02:07.00] 
+[01:55.37] I need time, love
+[02:00.83] I need space
+[02:03.90] (This is it)
+[02:09.90] 
+[02:05.07] I don't need nobody telling me just what I wanna
+[02:08.35] What I, what, what, what I'm gonna (I need) do about my destiny
+[02:13.72] I say no, no, nobody's telling me just what I wanna do, do
+[02:18.30] I'm so fed up with people telling me to be someone else but me (action!)
+[02:54.30] 
+[02:24.85] (Yeah) what am I to do with my life? (You will find it out, don't worry)
+[02:30.71] How am I supposed to know what's right? (You just gotta do it your way)
+[02:35.87] I can't help the way I feel (feel)
+[02:38.92] But my life has been so overprotected
+[02:57.42] 
+[02:42.76] I don't need nobody telling me just what I wanna
+[02:46.38] What I, what, what, what I'm gonna do about my destiny
+[02:51.89] I say no, no, nobody's telling me just what I wanna do, do
+[02:56.27] I'm so fed up with people telling me to be someone else but me
+[03:27.27] 
+[03:00.70] What am I to do with my life? (You will find it out, don't worry)
+[03:06.03] How am I supposed to know what's right? (You just gotta do it your way)
+[03:09.91] I can't help the way I feel (oh, I can't help the way I feel)
+[03:13.51] But my life has been so overprotected
+```
