@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Overprotected",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-07T05:24:56.755079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overprotected",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/01_Overprotected_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overprotected (The Darkchild remix) (radio edit)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/02_Overprotected_(The_Darkchild_remix)_(radio_edit)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overprotected",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/03_Overprotected_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overprotected - Radio Edit",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/04_Overprotected_-_Radio_Edit_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overprotected (Radio Edit)",
+      "artist": "Spears, Britney",
+      "has_synced": true,
+      "path": "select/05_Overprotected_(Radio_Edit)_Spears,_Britney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Overprotected",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/06_Overprotected_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overprotected (The Darkchild Remix)",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/07_Overprotected_(The_Darkchild_Remix)_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Overprotected (Radio Edit)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/08_Overprotected_(Radio_Edit)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Overprotected - The Darkchild Remix - Remastered",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/09_Overprotected_-_The_Darkchild_Remix_-_Remastered_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overprotected (The Darkchild Remix - Remastered)",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/10_Overprotected_(The_Darkchild_Remix_-_Remastered)_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Overprotected - Darkchild Remix Edit",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/11_Overprotected_-_Darkchild_Remix_Edit_Britney_Spears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overprotected",
+      "artist": "fujii kaze",
+      "has_synced": false,
+      "path": "select/pl_01_Overprotected_fujii_kaze.txt"
+    }
+  ]
+}
